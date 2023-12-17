@@ -1,4 +1,6 @@
 ! Title: Block grabify links
+! Credits: M-rcus - https://gist.github.com/M-rcus/9af3207273bf5d30b28c2e3892f1a412
+
 ||bmwforum.co^$doc
 ||catsnthing.com^$doc
 ||catsnthings.fun^$doc
