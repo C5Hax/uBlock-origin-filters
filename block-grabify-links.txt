@@ -47,18 +47,18 @@
 ! block iplogger.org websites
 ! WARN: custom websites can be put, but who the hell would pay for that shit?
 
-||iplogger.com/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||iplogger.org/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||iplogger.ru/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||iplogger.co/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||iplogger.info/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||ipgrabber.ru/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||iplis.ru/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||iplog.co/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||iplogger.cn/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||wl.gl/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||ed.tc/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||bc.ax/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||2no.co/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||yip.su/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
-||02ip.ru/[a-zA-Z0-9](/\.(.*)(2, 7)|)^$doc
+||iplogger\.com/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||iplogger\.org/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||iplogger\.ru/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||iplogger\.co/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||iplogger\.info/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||ipgrabber\.ru/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||iplis\.ru/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||iplog\.co/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||iplogger\.cn/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||wl\.gl/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||ed\.tc/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||bc\.ax/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||2no\.co/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||yip\.su/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
+||02ip\.ru/[a-zA-Z0-9](/\.(.*){2,7}|)^$doc
